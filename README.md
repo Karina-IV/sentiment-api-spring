@@ -194,8 +194,41 @@ ___
 
 ## 📌 Possíveis Evoluções
 
+Endpoint GET /stats com estatísticas.
+
+Persistência.
+
+Explicabilidade básica.
+
+Batch processing.
+
+Versão multilingue.
+
+Testes automatizados.
 ___
 
 ## 👩‍💻 Autores
 
+Diego Cancelas
+
+Isac Santos
+
+Janaira Casotti de Souza
+
+Karina Ivanova Varlamova
+
+Lucas Ruy
+
+Marcos de Castro
+
+Nicolas Silva
+
+Renato Lemos Limongi de Aguiar Moraes
 ___
+
+## Deploy
+
+https://sentiment-api-java.onrender.com
+
+Observação: No momento a aplicação funcionando no plano Free do Render. Por isso pode acontecer
+demora na primeira análise ou mensagem erro 500 e necessidade de tentar segunda vez.
